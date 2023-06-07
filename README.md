@@ -35,7 +35,13 @@ This project is a real-time chat application made with Flutter and Firebase. The
 <p align="center">
 <i>Include your app screenshots here</i>
 <br>
-<i>(Tutaj umieść zrzuty ekranu z aplikacji)</i>
+<i>
+<p align="center">
+<img src="https://github.com/blaszkaaa/chat_2/assets/58654924/9b60fe7f-e067-4b4c-b8e2-9fac681d7c29" width="250" height="500" />
+<img src="https://github.com/blaszkaaa/chat_2/assets/58654924/b7d196bb-c0fc-42c8-8456-65f89ffb206e" width="250" height="500" />
+<img src="https://github.com/blaszkaaa/chat_2/assets/58654924/d8e33cc7-3d3e-4618-b615-910466a6c992" width="250" height="500" />
+</p>
+</i>
 </p>
 
 ---
